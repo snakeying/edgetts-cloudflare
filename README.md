@@ -1,5 +1,10 @@
 # 🎵 Edge TTS Cloudflare Worker
 
+<p align="center">
+    <br> <a href="README-EN.md">English</a> | 中文
+</p>
+<p align="center">
+
 > 把微软 Edge 的神经网络语音合成能力，包装成 OpenAI TTS API 兼容格式，部署在 Cloudflare Workers 上。免费、快速、无需服务器！
 
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/snakeying/edge-tts-worker)
