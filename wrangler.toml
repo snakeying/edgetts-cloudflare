@@ -1,0 +1,6 @@
+name = "edge-tts-worker"
+main = "worker.js"
+compatibility_date = "2025-12-18"
+
+[env.production]
+workers_dev = false
