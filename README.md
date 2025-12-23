@@ -1,4 +1,6 @@
-# 🎵 Edge TTS Cloudflare Worker
+<h1 align="center">
+🎵 Edge TTS Cloudflare Worker
+</h1>
 
 <p align="center">
     <br> <a href="README-EN.md">English</a> | 中文
